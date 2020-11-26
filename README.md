@@ -2,15 +2,15 @@
 
 # Web Screenshots
 <p align="center">
-  <img src="https://imgur.com/zwyCvEV" width="650">
+  <img src="https://imgur.com/zwyCvEV.png" width="650">
 </p>
 
 <p align="center">
-  <img src="https://imgur.com/lUbJb4v" width="650">
+  <img src="https://imgur.com/lUbJb4v.png" width="650">
 </p>
 
 <p align="center">
-  <img src="https://imgur.com/tBkbc7M" width="650">
+  <img src="https://imgur.com/tBkbc7M.png" width="650">
 </p>
 
 # :computer: Technologies
