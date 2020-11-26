@@ -1,8 +1,16 @@
 <h1 align="center">TRVL</h1>
 
-# Web Screenshot
+# Web Screenshots
 <p align="center">
-  <img src="">
+  <img src="https://imgur.com/zwyCvEV" width="650">
+</p>
+
+<p align="center">
+  <img src="https://imgur.com/lUbJb4v" width="650">
+</p>
+
+<p align="center">
+  <img src="https://imgur.com/tBkbc7M" width="650">
 </p>
 
 # :computer: Technologies
