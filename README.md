@@ -2,7 +2,7 @@
 
 # Web Screenshot
 <p align="center">
-  <img src="https://imgur.com/rCh4CXX.png">
+  <img src="">
 </p>
 
 # :computer: Technologies
