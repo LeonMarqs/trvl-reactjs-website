@@ -16,7 +16,7 @@
 </p>
 
 # :computer: Technologies
-This project was made with this tools:
+This project was built with this tools:
 
 * [Javascript](https://www.javascript.com/)      
 * [ReactJS](https://reactjs.org/)        
